@@ -8,7 +8,7 @@ import seaborn as sns
 
 def clean_data(df):
     '''
-    INPUT
+    INPUT, bla bla bla
     df - pandas dataframe
 
     OUTPUT
